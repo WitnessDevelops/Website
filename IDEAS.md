@@ -57,7 +57,7 @@ __Fun Commands (upcoming)__
 - API images
 - captcha
 
-__Developer Commands (UNLISTED) __
+__Developer Commands (UNLISTED)__
 
 - evaluate
 - restart 
