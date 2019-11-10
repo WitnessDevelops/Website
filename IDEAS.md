@@ -31,3 +31,39 @@ __Economy (upcoming)__
 - activity
 
 Inventory System / XP / Level System Soon
+
+__Moderation (upcoming)__
+
+- ban
+- kick
+- hackban
+- mute
+- unmute
+- softban
+- prefix
+- verification
+
+__Fun Commands (upcoming)__
+
+- dadjoke
+- joke
+- meme
+- dankmeme
+- dog
+- cat
+- alpaca
+- love
+- marry
+- API images
+- captcha
+
+__Developer Commands (UNLISTED) __
+
+- evaluate
+- restart 
+- status
+- shards
+- addmoney
+- removemoney
+- blacklistg (blacklist guild
+- blacklistu (blacklist user
