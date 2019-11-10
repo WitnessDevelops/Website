@@ -16,3 +16,18 @@
                                             - and Much more!
                                 
                           Wallet is also open source! Find it here: notawebsite.com/
+
+# Commands (for now
+
+__Economy (upcoming)__
+
+- rob
+- balance 
+- beg
+- dig
+- work
+- crime
+- slut
+- activity
+
+Inventory System / XP / Level System Soon
